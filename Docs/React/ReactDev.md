@@ -1,7 +1,7 @@
 | <div style="width:250px"><img src="https://www.strongwell.com/downloads/1-line-logo.png" ></img></div>
 |:-----------------------|
 
-# Guidelines for development within Strongwell
+# Guidelines for Reaact development within Strongwell
 
 ---
 
@@ -9,4 +9,4 @@
 
 ## React Apps
 
-<a href="Docs\ReactDev.md">React Dev Standards</a>
+<a href="FolderStructure.md">Folder Structure</a>
