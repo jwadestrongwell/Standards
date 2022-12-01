@@ -9,4 +9,4 @@
 
 ## React Apps
 
-<a href="Docs\ReactDev.md">React Dev Standards</a>
+<a href="Docs\React\ReactDev.md">React Dev Standards</a>
